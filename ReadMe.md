@@ -1,96 +1,129 @@
-<h1 align="center">🚀 Dreamer X | Akash Singh</h1>
+<h1 align="center">🌠 Dreamer X | Akash Singh</h1>
 <p align="center">
-  <i>“Code with passion, dream without limits.”</i><br>
-  <b>Java Developer | Tech Explorer | Creative Visionary</b>
+  <i>"Turning code into impact, dreams into software."</i><br>
+  <b>Full Stack Java Developer | Android Enthusiast | AI Explorer</b>
 </p>
 
 ---
 
-### 🌌 About Me
+### 🚀 About Me
 
-🎯 I’m on a **relentless journey** to explore, create, and innovate in the world of tech.  
-💻 Currently sharpening my **Java** skills to a master level, while diving into exciting tech domains.  
-🤝 I believe in **collaboration over competition**, and I'm always up for working with passionate minds!  
-💡 Let's build something impactful together and **inspire the next generation of creators**.
+🎓 MCA @ BVICAM, Delhi | BCA @ FIMT, Delhi (CGPA: 9.2)  
+🧠 I’m an ambitious developer dedicated to mastering **Java**, building real-world solutions, and exploring the **intersection of AI and software**.  
+🔧 Currently building a futuristic healthcare app & other AI-enhanced projects using **Spring Boot, Kotlin Compose, PostgreSQL, Docker, and AI tools**.
 
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://discord.gg/Q2G45yQFGW" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.facebook.com/people/Dreamers-Void/61558241585828/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/akash.ni.00" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/akash-singh-04343b28a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://reddit.com/r/DreamersGalaxy" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-  <a href="https://x.com/XDreamer0" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@DreamerBhai" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
+🤝 Let’s collaborate to build innovative, scalable, and smart solutions that matter.  
+💬 I love working with tech that makes life easier — and people who dream big.
 
 ---
 
-### 💻 Tech Stack
+### 📱 Projects Highlights
 
-#### 👨‍💻 Programming
+🩺 **Jeevan Medical App** *(Ongoing)*  
+A smart healthcare assistant with emergency features, hospital locator, appointment system, symptoms filter, and more.  
+Tech: Kotlin Compose | Spring Boot | PostgreSQL | Docker | Postman
+
+📰 **Bharti Times App**  
+College News App with interest filtering, login system, wishlist, and SQL-backed backend.  
+Tech: Ktor | MSSQL | Android Studio
+
+🧠 **QuizMania (AI Project)**  
+AI-powered quiz & competition web app with real-time competitions, user auth, and AI prompt analysis.  
+Tech: React JS | Tailwind CSS | Spring Boot | PostgreSQL | Cursor AI
+
+---
+
+### 💼 Experience
+
+**Business Associate @ Winzera Pvt. Ltd.**  
+- Optimized product listings & pricing  
+- Led training sessions for 50+ learners  
+- Managed CRM panels
+
+**Creative Member @ IEEE BVICAM SB**  
+- Designed eye-catching posters  
+- Coordinated academic and creative branding
+
+---
+
+### 🧰 Tech Stack
+
+#### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-#### 🌐 Web Dev
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+#### 🧪 Frameworks / Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### 🧠 Data & AI
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-202020.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-#### 🎨 Design & Video
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-
-#### ⚙️ Tools & Platforms
-![MySQL](https://img.shields.io/badge/MySQL-00000F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+#### 🤖 AI & Productivity Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-1F425F?style=for-the-badge&logo=github&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-black?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Adobe Acrobat](https://img.shields.io/badge/Adobe%20Reader-EC1C24.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
+
+#### 🎨 Design Tools
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📚 Education
+
+- 👨‍🎓 **MCA (Pursuing)** – BVICAM, Delhi – CGPA: 9.0  
+- 🎓 **BCA** – FIMT, Delhi – CGPA: 9.2  
+
+---
+
+### 🏅 Awards & Certifications
+
+🏆 **Best Student Philanthropist (NSS)** – 2+ years of social service  
+📃 **Research Paper on SMU** – Presented at Tractate 2025  
+🎖️ **Badges from Google & IBM** – AI Applications, Prompt Design, Cloud Fundamentals  
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DreamerX00&theme=radical&show_icons=true&hide_border=false&include_all_commits=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DreamerX00&theme=radical&hide_border=false" alt="Streak Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerX00&theme=radical&layout=compact&hide_border=false" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DreamerX00&theme=radical&show_icons=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerX00&layout=compact&theme=radical&hide_progress=true" width="48%"/>
 </p>
 
+---
 ---
 
 ### 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DreamerX00&theme=radical&no-frame=false&margin-w=10" />
-</p>
+✨ GitHub recognizes contributors with unique digital badges!  
+Here are some of my notable highlights:
+
+- 🧊 **Arctic Code Vault Contributor** – My code was archived in the Arctic Vault  
+- 🦈 **Pull Shark** – Merged multiple pull requests in public repos  
+- 🔍 **GitHub Explorer** – Contributed to open-source discussions  
+- 📌 **Starstruck** – Received stars on repositories  
+- 💬 **Rapid Responder** – Engaged with issues and discussions  
+- 🚀 **GitHub Contributor** – Contributed to open-source projects  
+- 🛠️ **Code Maintainer** – Maintained my own projects over time  
+- 🌟 **GitHub User Since 2022** – Actively growing since then
+
+> 📍 *See all achievements on my profile:* [github.com/DreamerX00](https://github.com/DreamerX00)
 
 ---
+
 
 ### ✍️ Inspirational Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ---
 
-### 😂 Random Meme to Lighten the Code Mood
-<p align="center">
-  <img src="https://randommeme-five.vercel.app/" height="400px"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DreamerX00&icon=0&color=6" alt="Visitor Count"/>
-</p>
-
-<!-- Built with ❤️ by Dreamer X | Akash Singh -->
+<!-- Created with ❤️ by Dreamer X | Akash Singh -->
