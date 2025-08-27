@@ -24,17 +24,10 @@
 
 ## 📱 Notable Projects
 
-### 🩺 [Jeevan Medical App](https://github.com/DreamerX00/Jeevan-Medical) *(Ongoing)*
+### 🩺 [Jeevan Medical App](https://github.com/DreamerX00/Jeevan_Full_Stack) *(Ongoing)*
 > A smart healthcare platform featuring emergency ambulance, hospital locator, appointment bookings, symptom checker, patient dashboard, and medicine tracker  
 > **Tech:** Kotlin, Android Compose, Spring Boot (Microservices), PostgreSQL, Docker, Postman  
 > *Backend containerized with Docker, tested with Postman, clean UI via Compose, secure login/auth flows*
-
----
-
-### 📰 [Bharti Times Mobile App](https://github.com/DreamerX00/Bharti-Times)
-> College news app with secure login, personalized feeds, favorites wishlist, interest-based filtering  
-> **Tech:** Kotlin, Android SDK, Ktor, MSSQL, REST APIs  
-> *Built efficient backend APIs in Ktor, architected for secure scalable fetches*
 
 ---
 
@@ -42,6 +35,13 @@
 > Real-time quiz platform with competition, quiz management, payments (Razorpay), multiplayer via LiveKit, and AI-driven quiz analysis  
 > **Tech:** Next.js, TailwindCSS, PostgreSQL, Prisma, Cursor AI  
 > *Live multiplayer system, full CRUD, pricing models, and status slugs*
+
+---
+
+### 📰 [Bharti Times Mobile App](https://github.com/DreamerX00/Bharti-Times)
+> College news app with secure login, personalized feeds, favorites wishlist, interest-based filtering  
+> **Tech:** Kotlin, Android SDK, Ktor, MSSQL, REST APIs  
+> *Built efficient backend APIs in Ktor, architected for secure scalable fetches*
 
 ---
 
