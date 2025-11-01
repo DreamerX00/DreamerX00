@@ -36,7 +36,7 @@ public class DreamerX {
     }
     
     public String getDreamJob() {
-        return "Join a top global tech team and create smart solutions that scale! 🌍";
+        return "Join a top global tech team and create smart solutions that scale! 🌏";
     }
 }
 ```
@@ -164,12 +164,16 @@ public class DreamerX {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerX00&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=DreamerX00&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" alt="Top Contributions"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=DreamerX00&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366f1&line=8b5cf6&point=a855f7&area=true&area_color=6366f1" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DreamerX00&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamerX00&bg_color=0d1117&color=6366f1&line=8b5cf6&point=a855f7&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+</div>
 
 ---
 
@@ -268,7 +272,7 @@ public class DreamerX {
 ## 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
 </p>
 
 ---
@@ -304,6 +308,16 @@ const currentGoals = {
 
 ---
 
+## 📈 Profile Summary
+
+<div align="center">
+  
+![Metrics](https://metrics.lecoq.io/DreamerX00?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FKolkata)
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer"/>
   
@@ -319,32 +333,10 @@ const currentGoals = {
 </div>
 
 <!--
-🎯 To enable the contribution snake animation:
-1. Create a file: .github/workflows/snake.yml
-2. Add the following workflow:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+🎯 Profile Tips:
+- Add the snake game: Create a .github/workflows/snake.yml file with Platane/snk@v3 action
+- Keep updating your projects regularly
+- Add screenshots/demos to project READMEs
+- Engage with the community through issues and PRs
+- Keep learning and building! 🚀
 -->
