@@ -3,9 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Turning+code+into+impact%2C+dreams+into+software+✨;Building+the+future%2C+one+commit+at+a+time+🚀;Passionate+about+creating+solutions+that+matter+💡" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Turning+code+into+impact+%E2%9C%A8;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Passionate+about+creating+solutions+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -36,7 +34,7 @@ public class DreamerX {
     }
     
     public String getDreamJob() {
-        return "Join a top global tech team and create smart solutions that scale! 🌏";
+        return "Join a top global tech team and create smart solutions that scale! 🌍";
     }
 }
 ```
@@ -164,16 +162,12 @@ public class DreamerX {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerX00&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=DreamerX00&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366f1&line=8b5cf6&point=a855f7&area=true&area_color=6366f1" alt="Contribution Graph"/>
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=DreamerX00&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" alt="Top Contributions"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DreamerX00&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamerX00&bg_color=0d1117&color=6366f1&line=8b5cf6&point=a855f7&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-</div>
 
 ---
 
@@ -234,13 +228,42 @@ public class DreamerX {
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DreamerX00/DreamerX00/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DreamerX00/DreamerX00/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DreamerX00/DreamerX00/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+> **Note:** To enable this animation, create `.github/workflows/snake.yml` in your profile repository with:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: DreamerX00
+          outputs: dist/snake.svg
+          
+      - name: Push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
 ---
 
@@ -272,49 +295,59 @@ public class DreamerX {
 ## 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus & Goals
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-```typescript
-const currentGoals = {
-  shortTerm: [
-    "🔥 Master Spring Boot Microservices architecture",
-    "📱 Build production-ready Android apps with Compose",
-    "🌐 Contribute to open-source Java projects",
-    "🤖 Integrate AI/ML in full-stack applications"
-  ],
-  longTerm: [
-    "🚀 Join a FAANG/MAANG company",
-    "🌍 Build products that impact millions",
-    "📚 Mentor aspiring developers",
-    "💡 Launch my own tech startup"
-  ],
-  learning: [
-    "Kubernetes & Container Orchestration",
-    "System Design & Architecture",
-    "Cloud Native Development (AWS/Azure)",
-    "Advanced Kotlin Coroutines & Flow"
-  ]
-};
+### 🎯 Short-Term Goals
+```yaml
+focus:
+  - 🔥 Spring Boot Microservices
+  - 📱 Android Jetpack Compose
+  - 🌐 Open-source contributions
+  - 🤖 AI/ML integration
 ```
 
-</div>
+### 📚 Currently Learning
+```yaml
+skills:
+  - Kubernetes & Orchestration
+  - System Design patterns
+  - AWS/Azure Cloud Native
+  - Advanced Kotlin Flow
+```
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📈 Profile Summary
+### 🚀 Long-Term Vision
+```yaml
+goals:
+  - 🏢 Join FAANG/MAANG
+  - 🌍 Build scalable products
+  - 👨‍🏫 Mentor developers
+  - 💡 Launch tech startup
+```
 
-<div align="center">
-  
-![Metrics](https://metrics.lecoq.io/DreamerX00?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FKolkata)
+### 🎓 Growth Mindset
+```yaml
+principles:
+  - Learn in public
+  - Build consistently
+  - Give back to community
+  - Never stop improving
+```
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -328,15 +361,37 @@ const currentGoals = {
     <i>Last updated: November 2025</i>
   </p>
   
-  ![Visitor Count](https://profile-counter.glitch.me/DreamerX00/count.svg)
+  <img src="https://komarev.com/ghpvc/?username=DreamerX00&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
   
 </div>
 
 <!--
-🎯 Profile Tips:
-- Add the snake game: Create a .github/workflows/snake.yml file with Platane/snk@v3 action
-- Keep updating your projects regularly
-- Add screenshots/demos to project READMEs
-- Engage with the community through issues and PRs
-- Keep learning and building! 🚀
+🎯 To enable the contribution snake animation:
+1. Create a file: .github/workflows/snake.yml
+2. Add the following workflow:
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
