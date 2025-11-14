@@ -76,14 +76,6 @@ public class DreamerX {
 > **Tech:** TypeScript • Next.js • Modern frameworks  
 > *Updated: Oct 28, 2025* | 🆕 Latest project in development
 
----
-
-### 📰 [Bharti Times Mobile App](https://github.com/DreamerX00/Shop2Many) - College News Platform
-> **Personalized news feed for college students**  
-> 📱 Mobile-first design • 🔔 Push notifications • ⭐ Favorites system • 🏷️ Interest-based filtering  
-> **Tech:** Kotlin • Android SDK • Ktor • MSSQL • REST APIs  
-> *Secure login • Scalable architecture • Efficient backend*
-
 </div>
 
 ---
