@@ -191,37 +191,6 @@ Tools       → GitHub Actions · Jenkins · Git
 **📅 Last Updated:** May 2026 | 🔬 Research & Development
 
 ---
-
-### 🎯 [RM-SUDO](https://github.com/DreamerX00/RM-SUDO)
-#### Advanced Sudo Command Manager & Audit Tool
-
-<table>
-  <tr>
-    <td align="left" width="50%">
-      <b>✨ Features:</b><br/>
-      🛡️ Sudo policy management<br/>
-      📋 Command audit logging<br/>
-      🔐 Role-based access control<br/>
-      📊 Usage analytics dashboard<br/>
-      ⚡ Lightweight & fast
-    </td>
-    <td align="left" width="50%">
-      <b>🛠️ Tech Stack:</b><br/>
-      • TypeScript<br/>
-      • Node.js<br/>
-      • Security-first architecture<br/>
-      • Audit logging system<br/>
-      • Modern CLI interface
-    </td>
-  </tr>
-</table>
-
-**📅 Last Updated:** April 2026 | 🛡️ Security Focused
-
-</div>
-
----
-
 ## 🛠️ Tech Arsenal
 
 <details>
