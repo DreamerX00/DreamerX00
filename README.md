@@ -1,7 +1,7 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117&color=50:6366f1&color=100:06b6d4&height=240&section=header&text=DreamerX&fontColor=ffffff&fontSize=60&fontAlignY=30&desc=Akash%20Singh%20%7C%20Full-Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps&descAlignY=55&descAlign=50&animation=fadeIn" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1&color=50:8b5cf6&color=100:06b6d4&height=240&section=header&text=DreamerX&fontColor=ffffff&fontSize=60&fontAlignY=30&desc=Akash%20Singh%20%7C%20Full-Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps&descAlignY=55&descAlign=50&animation=fadeIn" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117&color=50:6366f1&color=100:06b6d4&height=240&section=header&text=DreamerX&fontColor=ffffff&fontSize=60&fontAlignY=30&desc=Akash%20Singh%20%7C%20DevOps%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1&color=50:8b5cf6&color=100:06b6d4&height=240&section=header&text=DreamerX&fontColor=ffffff&fontSize=60&fontAlignY=30&desc=Akash%20Singh%20%7C%20DevOps%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50&animation=fadeIn" />
   </picture>
 </h1>
 
@@ -13,6 +13,7 @@
   <a href="https://github.com/DreamerX00"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/akashs08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:akashsinghaa008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/DreamerX/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.youtube.com/@DreamerBhai"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://twitter.com/XDreamer0"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
@@ -31,6 +32,8 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> About Me
 
+A DevOps-focused full-stack engineer with a foundation in teaching and community leadership. Currently training in cloud operations at **CloudKeeper**, building on hands-on experience across freelance development, mentorship, and open-source contribution. Also creates developer content on YouTube as **Dreamer Bhai**.
+
 <table>
   <tr>
     <td width="55%" valign="top">
@@ -40,8 +43,8 @@
 ```yaml
 name: Akash Singh
 alias: DreamerX
-location: India
-occupation: Full-Stack Engineer & Cloud Architect
+location: Delhi, India
+role: DevOps Trainee @ CloudKeeper · Full-Stack Developer
 mission: Building scalable, intelligent systems
 focus_areas:
   - Cloud-Native Architecture (AWS, GCP)
@@ -50,8 +53,8 @@ focus_areas:
   - AI/ML Integration & Automation
   - DevOps & CI/CD Pipelines
 education:
-  - MCA @ BVICAM (9.2/10 CGPA)
-  - BCA @ FIMT (9.2/10 CGPA)
+  - MCA @ BVICAM, Delhi (9.2/10 CGPA) — 2026
+  - BCA @ FIMT, Delhi (9.2/10 CGPA) — 2024
 ```
 
     </td>
@@ -61,7 +64,7 @@ education:
 
 ```
 Frontend    → Next.js · TypeScript · TailwindCSS
-Backend     → Spring Boot · Node.js · Express
+Backend     → Spring Boot · Node.js · Express · WebSocket
 Cloud       → AWS · GCP · Docker · K8s · Terraform
 Databases   → PostgreSQL · MongoDB · Prisma ORM
 AI/ML       → OpenAI · LangChain · TensorFlow
@@ -229,6 +232,7 @@ Tools       → GitHub Actions · Jenkins · Git
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-black?style=for-the-badge&logo=websocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -324,10 +328,11 @@ Tools       → GitHub Actions · Jenkins · Git
 | 🏆 Achievement | 📝 Description | 📅 Year |
 |:---:|:---|:---:|
 | **🥇 Best Student Philanthropist (NSS)** | 2+ years community service & leadership | 2024–2025 |
-| **📄 Research Paper Published** | "Single Memory Unit (SMU)" @ Tractate 2025 | Mar 2025 |
-| **🎓 Academic Excellence** | Consistent 9.2/10 CGPA (MCA & BCA) | 2021–2025 |
-| **☁️ Google Cloud Certified** | AI Applications, Cloud Architecture | 2024 |
-| **💻 IBM Cloud Fundamentals** | Cloud Computing & Infrastructure | 2023 |
+| **📄 Research Paper Published** | "Single Memory Unit (SMU)" | Mar 2025 |
+| **🎓 Academic Excellence** | Consistent 9.2/10 CGPA — MCA & BCA | 2021–2026 |
+| **☁️ AWS Cloud Practitioner Essentials** | AWS Skill Builder training badge | Recent |
+| **🔮 Google Cloud Gen AI Skill Badges** | Vertex AI, Gemini API & Imagen | Recent |
+| **📬 Postman API Fundamentals** | Student Expert certification | Recent |
 | **🦈 Pull Shark** | Meaningful cross-repository contributions | Ongoing |
 | **⭐ Starstruck** | Projects with community recognition | Ongoing |
 
@@ -339,26 +344,46 @@ Tools       → GitHub Actions · Jenkins · Git
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%" style="padding: 20px;">
+    <td width="50%" valign="top" style="padding: 20px;">
+      <h3>⚙️ DevOps Trainee</h3>
+      <p><b>CloudKeeper</b> · Noida, India<br/><i>Jan 2026 – Present</i></p>
+      <p align="left">
+        Hands-on training in DevOps practices and cloud cost optimization workflows at a cloud FinOps platform.
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 20px;">
+      <h3>💻 Freelance Developer</h3>
+      <p><b>Fiverr</b> · India<br/><i>Jul 2024 – Present</i></p>
+      <p align="left">
+        Delivering full-stack projects for global clients, applying real-world engineering and cloud skills to production problems.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 20px;">
       <h3>🏢 Business Associate</h3>
-      <p><b>Winzera Pvt. Ltd.</b></p>
+      <p><b>The Infopreneurs Club</b><br/><i>May 2024 – Jul 2025</i></p>
       <p align="left">
         ✅ Product listing optimization & catalog management<br/>
         📊 Pricing analysis, market research & strategy<br/>
         👥 Team training & onboarding (50+ learners)<br/>
-        🔧 CRM operations & customer relationship<br/>
-        📈 Revenue optimization & performance metrics
+        🔧 CRM operations & revenue optimization
       </p>
     </td>
-    <td align="center" width="50%" style="padding: 20px;">
+    <td width="50%" valign="top" style="padding: 20px;">
       <h3>🎨 Creative Head & Core Team</h3>
       <p><b>IEEE BVICAM Student Branch</b></p>
       <p align="left">
-        👨‍💼 Led creative & technical teams<br/>
-        🎯 Digital campaigns, branding, social strategy<br/>
-        📱 Content creation & community engagement<br/>
-        🏆 Event coordination & execution<br/>
-        🌐 Brand visibility & online presence
+        Led creative & technical teams behind digital campaigns, branding, and event execution for the student chapter.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" style="padding: 20px;">
+      <h3>👨‍🏫 Teacher</h3>
+      <p><b>Savram Foundation</b> · Delhi, India · <i>Apr 2023 – Mar 2024</i></p>
+      <p align="left">
+        Mentored and taught students from grades 6–12, strengthening leadership, communication, and classroom confidence.
       </p>
     </td>
   </tr>
@@ -378,14 +403,20 @@ Tools       → GitHub Actions · Jenkins · Git
   <tr style="background: #0D1117;">
     <td align="center" style="padding: 12px; color: #6366F1; font-weight: bold;">MCA</td>
     <td align="center" style="padding: 12px;">BVICAM, Delhi</td>
-    <td align="center" style="padding: 12px;">2024 – Present</td>
+    <td align="center" style="padding: 12px;">Aug 2024 – 2026</td>
     <td align="center" style="padding: 12px; color: #06b6d4; font-weight: bold;">9.2 / 10</td>
   </tr>
   <tr style="background: #161B22;">
     <td align="center" style="padding: 12px; color: #6366F1; font-weight: bold;">BCA</td>
     <td align="center" style="padding: 12px;">FIMT, Delhi</td>
-    <td align="center" style="padding: 12px;">2021 – 2024</td>
+    <td align="center" style="padding: 12px;">Dec 2021 – Jul 2024</td>
     <td align="center" style="padding: 12px; color: #06b6d4; font-weight: bold;">9.2 / 10</td>
+  </tr>
+  <tr style="background: #0D1117;">
+    <td align="center" style="padding: 12px; color: #6366F1; font-weight: bold;">Foundation</td>
+    <td align="center" style="padding: 12px;">DSEU, Delhi</td>
+    <td align="center" style="padding: 12px;">Nov 2022 – Feb 2023</td>
+    <td align="center" style="padding: 12px; color: #06b6d4; font-weight: bold;">—</td>
   </tr>
 </table>
 
@@ -398,8 +429,8 @@ Tools       → GitHub Actions · Jenkins · Git
     <td width="25%" align="center" style="padding: 15px; border: 2px solid #6366F1; border-radius: 12px;">
       <h3>🔥 Short-Term</h3>
       <ul align="left">
-        <li>AWS Solutions Architect</li>
-        <li>Terraform & IaC mastery</li>
+        <li>Excelling as DevOps Trainee @ CloudKeeper</li>
+        <li>Formal AWS certification (Solutions Architect)</li>
         <li>System Design patterns</li>
         <li>Kubernetes in production</li>
       </ul>
@@ -450,6 +481,7 @@ Tools       → GitHub Actions · Jenkins · Git
   <a href="mailto:akashsinghaa008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://linkedin.com/in/akashs08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/DreamerX00"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/DreamerX/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.youtube.com/@DreamerBhai"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://twitter.com/XDreamer0"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://discord.gg/zpkw2r44yf"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
@@ -476,7 +508,7 @@ Tools       → GitHub Actions · Jenkins · Git
   </p>
   
   <p>
-    <i>Last refreshed: June 2026</i><br/>
+    <i>Last refreshed: July 2026</i><br/>
     <img src="https://komarev.com/ghpvc/?username=DreamerX00&label=Views&color=blueviolet&style=for-the-badge" alt="Views"/>
   </p>
-</div>
+</div> 
