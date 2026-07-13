@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250§ion=header&text=DreamerX&fontSize=60&fontAlignY=35&desc=DevOps%20Engineer%20|%20Cloud%20Engineer%20|%20Platform%20Builder&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250§ion=header&text=DreamerX&fontSize=60&fontAlignY=35&desc=DevOps%20Engineer%20|%20Cloud%20Engineer%20|%20Platform%20Builder&descAlignY=58&animation=fadeIn"/>
 
 <br/>
 
@@ -174,9 +174,9 @@ AI-powered quiz platform.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DreamerX00&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DreamerX00&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerX00&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DreamerX00&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
